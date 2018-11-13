@@ -1,4 +1,4 @@
-# Reading-Resources
+# Learning Resources
 A list of reading resources for my own skill development needed for research. In other words, this is bookmark list which I (wish to, but seldom) study!
 
 ## Mathematics
