@@ -7,6 +7,7 @@ A list of reading resources for my own skill development needed for research. In
 * [Linear Algebra - YouTube Playlist](https://www.youtube.com/watch?v=ZK3O402wf1c&list=PL49CF3715CB9EF31D) by Gilbert Strang
 * [Linear Algebra and Its Applications - Book](https://www.goodreads.com/book/show/179699.Linear_Algebra_and_Its_Applications) by Gilbert Strang
 * [Essence of linear algebra - YouTube Playlist](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) from 3Blue1Brown
+* [A comprehensive beginners guide to Linear Algebra for Data Scientists](https://www.analyticsvidhya.com/blog/2017/05/comprehensive-guide-to-linear-algebra/)
 
 ## Statistics
 * [Principal Component Analysis - YouTube Video](https://www.youtube.com/watch?v=FgakZw6K1QQ) by Josh Starmer
