@@ -12,9 +12,10 @@ A list of reading resources for my own skill development needed for research. In
 ## Statistics
 * [Principal Component Analysis - YouTube Video](https://www.youtube.com/watch?v=FgakZw6K1QQ) by Josh Starmer
 
-## Convolutional Neural Networks
+## Computer Vision and Convolutional Neural Networks
 * [A Beginner's Guide To Understanding Convolutional Neural Networks](https://adeshpande3.github.io/adeshpande3.github.io/A-Beginner's-Guide-To-Understanding-Convolutional-Neural-Networks/) by Adit Deshpande
 * [CS231n Convolutional Neural Networks for Visual Recognition](http://cs231n.github.io/convolutional-networks/) by Andrej Karpathy - Stanford
+* [Image Filters](https://lodev.org/cgtutor/filtering.html) by Lode Vandevenne
 
 ## Recurrent Neural Networks
 * [Understanding LSTM Networks](https://colah.github.io/posts/2015-08-Understanding-LSTMs/) by Christopher Olah
