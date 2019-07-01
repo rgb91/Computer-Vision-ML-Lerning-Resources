@@ -20,3 +20,6 @@ A list of reading resources for my own skill development needed for research. In
 ## Recurrent Neural Networks
 * [Understanding LSTM Networks](https://colah.github.io/posts/2015-08-Understanding-LSTMs/) by Christopher Olah
 * [Understanding and Quick Implementation in Keras of LSTM](https://towardsdatascience.com/understanding-lstm-and-its-quick-implementation-in-keras-for-sentiment-analysis-af410fd85b47) by Nimesh Sinha
+
+## Presentation Skills
+* [How to give a great Research Talk](https://www.youtube.com/watch?v=sT_-owjKIbA) by Simon Peyton Jones
