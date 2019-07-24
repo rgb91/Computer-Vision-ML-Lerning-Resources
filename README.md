@@ -26,3 +26,7 @@ A list of reading resources for my own skill development needed for research. In
 
 ## Presentation Skills
 * [How to give a great Research Talk](https://www.youtube.com/watch?v=sT_-owjKIbA) by Simon Peyton Jones
+
+
+## [Libraries](https://github.com/sanjaysaha1311/Lerning-Resources/blob/master/Libraries.md)
+* [Image Augmentation](https://github.com/aleju/imgaug/) by Alexander Jung
