@@ -1,6 +1,9 @@
 # Learning Resources
 A list of reading resources for my own skill development needed for research. In other words, this is bookmark list which I (wish to, but seldom) study!
 
+## Collections
+* [Over 200 of the Best Machine Learning, NLP, and Python Tutorials — 2018 Edition](bit.ly/36skFE7) by Robbie Allen
+
 ## Mathematics
 * [Blog](https://jeremykun.com)  by Jeremy Kun
 * [Linear Algebra for Coders](https://github.com/fastai/numerical-linear-algebra/blob/master/README.md) from [fast.ai](fast.ai)
