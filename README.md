@@ -13,8 +13,9 @@ A list of reading resources for my own skill development needed for research. In
 * [A comprehensive beginners guide to Linear Algebra for Data Scientists](https://www.analyticsvidhya.com/blog/2017/05/comprehensive-guide-to-linear-algebra/)
 * [What is a Tensor - YouTube](https://www.youtube.com/watch?v=f5liqUk0ZTw) by Dan Fleisch
 
-## Statistics
+## Statistics & Machine Learning basics
 * [Principal Component Analysis - YouTube Video](https://www.youtube.com/watch?v=FgakZw6K1QQ) by Josh Starmer
+* [Machine Learning - YouTube Playlist](https://www.youtube.com/playlist?list=PLblh5JKOoLUICTaGLRoHQDuF_7q2GfuJF) by Josh Starmer
 
 ## Neural Network Basics
 * [Cross Entropy Loss](https://gombru.github.io/2018/05/23/cross_entropy_loss/) by Raul Gomez
