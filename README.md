@@ -16,6 +16,7 @@ A list of reading resources for my own skill development needed for research. In
 ## Statistics & Machine Learning basics
 * [Principal Component Analysis - YouTube Video](https://www.youtube.com/watch?v=FgakZw6K1QQ) by Josh Starmer
 * [Machine Learning - YouTube Playlist](https://www.youtube.com/playlist?list=PLblh5JKOoLUICTaGLRoHQDuF_7q2GfuJF) by Josh Starmer
+* [Probability vs Likelihood](https://www.youtube.com/watch?v=pYxNSUDSFH4) by Josh Starmer & the pinned comment by `Follow Media'
 
 ## Neural Network Basics
 * [Cross Entropy Loss](https://gombru.github.io/2018/05/23/cross_entropy_loss/) by Raul Gomez
