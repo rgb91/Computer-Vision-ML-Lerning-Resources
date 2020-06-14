@@ -4,7 +4,7 @@ A list of reading resources for my own skill development needed for research. In
 ## Collections
 * [Over 200 of the Best Machine Learning, NLP, and Python Tutorials — 2018 Edition](bit.ly/36skFE7) by Robbie Allen
 
-## Mathematics
+## [Mathematics](Mathematics.md)
 * [Blog](https://jeremykun.com)  by Jeremy Kun
 * [Linear Algebra for Coders](https://github.com/fastai/numerical-linear-algebra/blob/master/README.md) from [fast.ai](fast.ai)
 * [Linear Algebra - YouTube Playlist](https://www.youtube.com/watch?v=ZK3O402wf1c&list=PL49CF3715CB9EF31D) by Gilbert Strang
