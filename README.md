@@ -19,7 +19,6 @@ A list of reading resources for my own skill development needed for research. In
 
 ## [Deep Learning Basics](DeepLearning.md)
 * [Cross Entropy Loss](https://gombru.github.io/2018/05/23/cross_entropy_loss/) by Raul Gomez
-## Recurrent Neural Networks
 * [Understanding LSTM Networks](https://colah.github.io/posts/2015-08-Understanding-LSTMs/) by Christopher Olah
 * [Understanding and Quick Implementation in Keras of LSTM](https://towardsdatascience.com/understanding-lstm-and-its-quick-implementation-in-keras-for-sentiment-analysis-af410fd85b47) by Nimesh Sinha
 ...
