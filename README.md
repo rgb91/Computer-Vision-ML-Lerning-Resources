@@ -15,6 +15,7 @@ A list of reading resources for my own skill development needed for research. In
 * [Principal Component Analysis - YouTube Video](https://www.youtube.com/watch?v=FgakZw6K1QQ) by Josh Starmer
 * [Machine Learning - YouTube Playlist](https://www.youtube.com/playlist?list=PLblh5JKOoLUICTaGLRoHQDuF_7q2GfuJF) by Josh Starmer
 * [Probability vs Likelihood](https://www.youtube.com/watch?v=pYxNSUDSFH4) by Josh Starmer & the pinned comment by *Follow Media*
+* [MLE vs MAP with Example](https://towardsdatascience.com/a-gentle-introduction-to-maximum-likelihood-estimation-and-maximum-a-posteriori-estimation-d7c318f9d22d) by Shota Horii
 ...
 
 ## [Deep Learning Basics](DeepLearning.md)
