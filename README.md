@@ -19,7 +19,7 @@ A list of reading resources for my own skill development needed for research. In
 ...
 
 ## [Deep Learning Basics](DeepLearning.md)
-* Cross Entropy Loss [1](https://gombru.github.io/2018/05/23/cross_entropy_loss/) by Raul Gomez; [2](https://towardsdatascience.com/understanding-binary-cross-entropy-log-loss-a-visual-explanation-a3ac6025181a) by Daniel Godoy
+* Cross Entropy Loss by [Raul Gomez](https://gombru.github.io/2018/05/23/cross_entropy_loss/); by [Daniel Godoy](https://towardsdatascience.com/understanding-binary-cross-entropy-log-loss-a-visual-explanation-a3ac6025181a)
 * [Understanding LSTM Networks](https://colah.github.io/posts/2015-08-Understanding-LSTMs/) by Christopher Olah
 * [Understanding and Quick Implementation in Keras of LSTM](https://towardsdatascience.com/understanding-lstm-and-its-quick-implementation-in-keras-for-sentiment-analysis-af410fd85b47) by Nimesh Sinha
 * [nn.Embedding in PyTorch](https://stackoverflow.com/a/58721217/1106468) 
