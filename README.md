@@ -29,6 +29,7 @@ A list of reading resources for my own skill development needed for research. In
 * [A Beginner's Guide To Understanding Convolutional Neural Networks](https://adeshpande3.github.io/adeshpande3.github.io/A-Beginner's-Guide-To-Understanding-Convolutional-Neural-Networks/) by Adit Deshpande
 * [CS231n Convolutional Neural Networks for Visual Recognition](http://cs231n.github.io/convolutional-networks/) by Andrej Karpathy - Stanford
 * [Image Filters](https://lodev.org/cgtutor/filtering.html) by Lode Vandevenne
+* [Face Restoration](https://github.com/sczhou/CodeFormer) by Zhou et. al.
 ...
 
 ## [Presentation and Writing Skills](Writing.md)
